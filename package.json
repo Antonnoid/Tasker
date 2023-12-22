@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@victorzimnikov/number-to-words": "^0.0.9",
+    "dotenv": "^16.3.1"
+  }
+}

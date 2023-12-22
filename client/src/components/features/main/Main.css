@@ -1,0 +1,11 @@
+.mainPage {
+  max-width: 800px;
+  margin: 10px auto;
+  text-align: center;
+  
+}
+
+.mainPage img {
+  max-width: 800px;
+  border-radius: 20px;
+}

@@ -1,0 +1,38 @@
+.user__card {
+  box-sizing: border-box;
+  width: 100%;
+  height: 40px;
+  background-color: rgb(123, 122, 122);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+  justify-content: space-evenly;
+}
+
+.user__card img {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+}
+
+.user__card_task {
+  box-sizing: border-box;
+  width: 200px;
+  height: 40px;
+  background-color: rgb(123, 122, 122);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+  justify-content: space-evenly;
+}
+
+.user__card_task img {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  
+}
